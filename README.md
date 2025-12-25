@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Purnima
+👋 Hi, I'm Purnima
 
 🎓 Student | 💻 Python & Web Development Enthusiast  
 
@@ -8,7 +8,7 @@ This repository showcases some of the projects I’ve worked on to improve my pr
 
 ---
 
-## 🚀 Skills
+🚀 Skills
 - **Programming Languages:** Python
 - **Frameworks:** Django
 - **Web Technologies:** HTML, CSS, JavaScript
@@ -16,9 +16,9 @@ This repository showcases some of the projects I’ve worked on to improve my pr
 
 ---
 
-## 📂 Projects
+📂 Projects
 
-### 💱 Currency Converter
+💱 Currency Converter
 - A web-based currency converter built using **Python** and **Django**
 - Converts one currency to another using real-time exchange rates  
 - Demonstrates backend logic, Django views, and templates  
@@ -26,7 +26,7 @@ This repository showcases some of the projects I’ve worked on to improve my pr
 
 ---
 
-### ❌⭕ Tic-Tac-Toe Game
+❌⭕ Tic-Tac-Toe Game
 - A classic **Tic-Tac-Toe** game built using **Python**
 - Two-player console-based gameplay
 - Focuses on game logic and conditional statements  
@@ -42,14 +42,14 @@ This repository showcases some of the projects I’ve worked on to improve my pr
 
 ---
 
-### 🎨 Frontend Projects
+🎨 Frontend Projects
 - Collection of frontend projects using **HTML, CSS, and JavaScript**
 - Focus on responsive design and user-friendly interfaces  
 🔗 *Project Link:* (Add repository link here)
 
 ---
 
-## 📈 What I'm Learning
+📈 What I'm Learning
 - Advanced Django concepts
 - APIs and backend integration
 - Improving frontend design and interactivity
