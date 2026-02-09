@@ -1,7 +1,6 @@
 👋 Hi, I'm Purnima
 
 🎓 Student | 💻 Python & Web Development Enthusiast  
-
 Welcome to my GitHub portfolio!  
 I enjoy building projects using **Python**, **Django**, and **Frontend technologies**.  
 This repository showcases some of the projects I’ve worked on to improve my programming and problem-solving skills.
